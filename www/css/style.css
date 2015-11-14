@@ -1,0 +1,44 @@
+hr {
+	opacity: 0.2;
+}
+
+.bg {
+	background-color: #281E1C;
+}
+
+.f-grey {
+	color: grey;
+	font-weight: normal;
+}
+
+.f-energized {
+	color: #FFC900;
+}
+
+.f-assertive {
+	color: #EF473A;
+}
+
+.t5 {
+	margin-top: 5%;
+}
+
+.t10 {
+	margin-top: 10%;
+}
+.t20 {
+	margin-top: 20%;
+}
+
+.t30 {
+	margin-top: 30%;
+}
+
+.clear {
+	border-radius: 25px;
+	width: 50%;
+}
+
+.circle {
+	border-radius: 200%;
+}
